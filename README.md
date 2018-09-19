@@ -10,6 +10,12 @@
 将您的cookie信息复制到 qiandao.ini 内对应位置 <br>
 注意，百度仅需要 "BDUSS" 段 <br>
 
+# 已支持
+百度贴吧、v2ex、hostloc、哔哩哔哩（主站、直播）、什么值得买、京东（商城、金融、APP）、网易云音乐（PC、手机）、Koolshare、Acfun、QQ（资料卡、QQ群）、人人视频（rr.tv）、斐讯商城、山东移动
+
+# 其他平台
+Koolshare Softcenter https://github.com/hikaruchang/qiandao-koolsoft
+
 # 捐献
 (BTC) 114Tg7mcVvUntUe1kw7HzaHByeypk2EJYb <br>
 (ETH) 0xa8a8640086a1acd6fd76b78ad3d4736871e76161 <br>
