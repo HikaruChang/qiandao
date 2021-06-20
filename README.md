@@ -17,7 +17,7 @@
 Koolshare Softcenter https://github.com/hikaruchang/qiandao-koolsoft
 
 # 捐献
-(BTC) 114Tg7mcVvUntUe1kw7HzaHByeypk2EJYb <br>
-(ETH) 0xa8a8640086a1acd6fd76b78ad3d4736871e76161 <br>
+(BTC) 3628Ly9tSp9gCqHbaHVKSH3m8wXrW7Bd1k <br>
+(ETH) 0x253AB8014A8d95d5C3349B69c2b447D7069fDaC8 <br>
 <br>
 以上です
